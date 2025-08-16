@@ -1,10 +1,6 @@
-Got it 👍 Here’s a clean **copy-paste ready README** for your **RizzexAI App Website**:
-
----
-
 # RizzexAI
 
-🚀 **RizzexAI** is a fun, AI-powered mobile application built with **Flutter** that helps you **upgrade your romantic game**. Whether you’re looking to impress with witty pickup lines, revamp your dating bio, or get a glimpse of your zodiac-based romantic fate – **RizzexAI is your go-to app for dating edge and flirty fun**.
+**RizzexAI** is a fun, AI-powered mobile application built with **Flutter** that helps you **upgrade your romantic game**. Whether you’re looking to impress with witty pickup lines, revamp your dating bio, or get a glimpse of your zodiac-based romantic fate – **RizzexAI is your go-to app for dating edge and flirty fun**.
 
 ---
 
@@ -74,5 +70,3 @@ Contributions are welcome! Feel free to fork, open issues, and submit PRs.
 Licensed under the **MIT License**.
 
 ---
-
-Do you want me to also shrink this into a **short About section** (2–3 lines) that you can paste directly on your website’s "About Us" page?
