@@ -24,10 +24,10 @@ Whether you’re stuck finding the perfect icebreaker or want to spice up your b
 
 ##  Tech Stack
 
-- **Website:** React (plus your preferred styling stack, e.g., Tailwind CSS or styled-components)  
+- **Website:** React, Tailwind CSS 
 - **Mobile App:** Flutter (cross-platform Android & iOS)  
-- **AI Backend:** OpenAI or similar AI service  
-- **Deployment:** Vercel / Netlify / GitHub Pages (update as applicable)
+- **AI Backend:** Gemini API  
+- **Deployment:** Netlify
 
 ---
 
